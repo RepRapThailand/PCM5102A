@@ -1,0 +1,4 @@
+# PCM5102A
+PCM5102A - I2S DAC
+
+JP2 = LDO Select
