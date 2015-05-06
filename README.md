@@ -1,4 +1,4 @@
 # PCM5102A
 PCM5102A - I2S DAC
 
-JP2 = LDO Select
+JP2 = 3.3v LDO Select
